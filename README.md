@@ -2,7 +2,7 @@
 
 An interactive dashboard built with **Plotly Dash** that explores historical automobile sales from 1980 to 2023, with a focus on how sales, advertising spend and unemployment behave during recession periods.
 
-![Dashboard screenshot](screenshots/dashboard.png)
+![Dashboard screenshot](dashboard.png)
 
 ## Features
 
@@ -34,7 +34,7 @@ The year dropdown is only enabled for Yearly Statistics, handled through Dash ca
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/automobile-sales-dashboard.git
+git clone https://github.com/Piyush12112001/automobile-sales-dashboard.git
 cd automobile-sales-dashboard
 pip install -r requirements.txt
 python dashboard.py
